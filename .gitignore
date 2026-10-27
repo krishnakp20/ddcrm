@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.db
+node_modules/
+dist/
+uploads/
+
+*.sql
+_archive/
+alert_rules_review.csv
+dialer/vicidial_push.config.php
+*.log
+.claude/
